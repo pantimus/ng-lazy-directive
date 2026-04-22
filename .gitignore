@@ -12,6 +12,9 @@
 /package-lock.json
 /yarn.lock
 
+/.yarn/cache
+/.yarn/install-state.gz
+
 # Environment files
 /.env
 
@@ -26,3 +29,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/.vscode

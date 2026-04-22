@@ -1,0 +1,10 @@
+# Add files here to ignore them from prettier formatting
+
+/.vscode
+/.yarn
+
+/dist
+/coverage
+
+README.md
+.angular
